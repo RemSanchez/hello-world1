@@ -1,2 +1,8 @@
-# hello-world1
-此存储库用于重复练习 GitHub 流程
+# this is a easy python test
+import math 
+def function(value1,value2):  
+    cat =value1+value2
+    print(cat)
+line1=4
+line2=6
+functuon(line1,line2)
