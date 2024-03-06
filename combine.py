@@ -1,4 +1,4 @@
-# this is a easy python test
+# the test
 import math 
 def function(value1,value2):  
     cat =value1+value2
